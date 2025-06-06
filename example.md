@@ -1,7 +1,7 @@
 ---
 title: タイトルをここに入れる
 marp: true
-theme: traP
+theme: SysAd
 ---
 
 <!--
